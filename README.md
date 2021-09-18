@@ -6,11 +6,11 @@ Este projeto tem como objetivo consumir uma API do GitHub a partir de um usuári
 
 Home:
 
-![Web 1](https://github.com/vanzacher/hc-react-github-api/blob/main/prints/home.jpg)
+![Web 1](https://github.com/vanzacher/Hiring-Coders-GitHub-API/blob/main/prints/home.jpg)
 
 Lista de Repositórios:
 
-![Web 2](https://github.com/vanzacher/hc-react-github-api/blob/main/prints/repo.jpg)
+![Web 2](https://github.com/vanzacher/Hiring-Coders-GitHub-API/blob/main/prints/repo.jpg)
 
 
 ## Executando 
